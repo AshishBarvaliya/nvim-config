@@ -40,4 +40,6 @@ local opts = {
 	},
 }
 
+-- vim.g.codeium_enabled = false
+
 require("lazy").setup("plugins", opts)
